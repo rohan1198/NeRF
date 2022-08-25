@@ -1,3 +1,6 @@
+![](https://github.com/rohan1198/NeRF/edit/main/output.png)
+Output
+
 <p align="center"><b><ins> NeRF Notes </ins></b></p>
 
 - In the paper [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf), the authors have described a method for novel view synthesis from a sparse set of input images.
