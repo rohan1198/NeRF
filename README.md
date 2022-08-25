@@ -1,5 +1,10 @@
-![](https://github.com/rohan1198/NeRF/edit/main/output.png)
-Output
+<p align="center">
+  <img width="460" height="300" src="https://github.com/rohan1198/NeRF/blob/main/output.png">
+</p>
+
+<br><br>
+
+---
 
 <p align="center"><b><ins> NeRF Notes </ins></b></p>
 
